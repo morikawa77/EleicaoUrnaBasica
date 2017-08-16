@@ -1,1 +1,1 @@
-"Calcula porcentagem de tipos de votos C# Curso Programaá∆o de Dispositivos M¢veis SENAC " 
+"Calcula porcentagem de tipos de votos C# Curso Programa√ß√£o de Dispositivos M√≥veis SENAC " 
